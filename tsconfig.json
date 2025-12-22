@@ -7,6 +7,7 @@
     "strict": true,
     "moduleDetection": "force",
     "skipLibCheck": true
+    // "strictNullChecks": false
   },
   "ts-node": {
     "esm": true
