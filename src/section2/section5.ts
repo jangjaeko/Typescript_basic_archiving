@@ -1,4 +1,9 @@
 //type assertion
+// type assertion is a way to tell the compiler about the type of a variable
+// it is used when we know more about the type than the compiler
+// it does not perform any runtime checks or conversions
+// it is purely a compile-time construct
+// so we should use it carefully
 
 type Person = {
   name: string;
