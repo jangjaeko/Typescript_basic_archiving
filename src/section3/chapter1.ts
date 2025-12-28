@@ -12,6 +12,7 @@ const divide: Operation = (a, b) => a / b;
 /**
  * call signature
  * same feature as function type expression
+ * using like object type
  */
 
 type Operation2 = {
