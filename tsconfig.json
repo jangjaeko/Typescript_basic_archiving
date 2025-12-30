@@ -6,7 +6,9 @@
     "outDir": "dist",
     "strict": true,
     "moduleDetection": "force",
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "allowJs": true
+    // "noImplicitAny": false  => make any type allowed when type is not defined
     // "strictNullChecks": false
   },
   "ts-node": {
